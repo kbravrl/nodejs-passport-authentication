@@ -34,6 +34,8 @@ This is a simple authentication application built with Express.js, Passport.js, 
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
 
-https://github.com/user-attachments/assets/39d2f872-40dd-4656-8dd4-160cdf5097cb
+https://github.com/user-attachments/assets/cba142c6-dc3d-4a20-8c65-1363775c462a
+
+
 
 
