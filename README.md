@@ -1,17 +1,17 @@
 # nodejs-passport-authentication
 
-This is a simple authentication application built with Express.js, Passport.js, and MongoDB. Users can register, log in, and access a protected dashboard.
+Bu, Express.js, Passport.js ve MongoDB ile oluşturulmuş basit bir kimlik doğrulama uygulamasıdır. Kullanıcılar kayıt olabilir, oturum açabilir ve korumalı bir panoya erişebilir.
 
-## Features
+## Özellikler
 
-- User registration
-- User login
-- User logout
-- Password hashing with bcrypt
-- Session management using express-session
-- Flash messages for user feedback
+- Kullanıcı kaydı
+- Kullanıcı girişi
+- Kullanıcı çıkışı
+- bcrypt ile parola karma
+- express-session kullanarak oturum yönetimi
+- Kullanıcı geri bildirimi için flaş mesajları
 
-## Technologies Used
+## Kullanılan Teknolojiler
 
 - Node.js
 - Express.js
@@ -19,20 +19,14 @@ This is a simple authentication application built with Express.js, Passport.js, 
 - Mongoose
 - Passport.js
 - Bcrypt.js
-- EJS (Embedded JavaScript)
+- EJS (Gömülü JavaScript)
 - Express-session
 - Connect-flash
 
-### Prerequisites
+### Önkoşullar
 
 - Node.js
 - MongoDB
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
 
 https://github.com/user-attachments/assets/cba142c6-dc3d-4a20-8c65-1363775c462a
 
